@@ -1,0 +1,7 @@
+{
+  "name": "PawnMaster Pro v2.0",
+  "description": "Hệ thống quản lý cầm đồ chuyên biệt cho điện thoại di động Ver 2.0. Hỗ trợ Money Mask, cảnh báo trễ hạn thông minh và tối ưu quy trình tạo hợp đồng.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
